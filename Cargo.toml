@@ -1,8 +1,8 @@
 [package]
 name = "anitsu"
-author = "kenjitheman"
+authors = ["nezutero <nezutero@gmail.com>"]
 description = "CLI Anime Scheduler. All from the command line."
-repository = "github.com/kenjitheman/anitsu"
+repository = "github.com/nezutero/anitsu"
 license = "MIT"
 version = "0.1.0"
 edition = "2021"
